@@ -1,19 +1,14 @@
 # live-chat
 
+This live-chat is created using Vue3 and Google Firebase as the backend server
+
 ## Project setup
+Step 1
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Step 2
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
