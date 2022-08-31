@@ -1,16 +1,19 @@
-# live-chat
+# Live Chat
 
-This live-chat is created using Vue3 and Google Firebase as the backend server
+## Overview
 
-It can be accessed through this link https://vue-3-firebase-e00f1.web.app/
+This is a live chat/ messenger service similar to whatsapp. User able to set their username and join into the chat. They can chat with other people provided they have this application.
 
-## Project setup
-Step 1
-```
-npm install
-```
+## How to start project
 
-Step 2
-```
-npm run serve
-```
+1. Initialise project by running `npm install`
+2. Run project with `npm run build`
+3. Success!
+
+## Technology/ Language used
+
+1. HTML
+2. CSS
+3. Javascript
+4. VueJS
+5. Google Firebase
